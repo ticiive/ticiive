@@ -13,7 +13,7 @@
 <br>
       
 <div align="center">
-  <img src="[https://imgur.com/zeuHIk9.gif](https://www.reddit.com/r/Eevee/comments/1h73s0t/please_help_me/)" width="200">
+  <img src="https://imgur.com/zeuHIk9.gif](https://www.reddit.com/r/Eevee/comments/1h73s0t/please_help_me" width="200">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/meow_♡-black" />
