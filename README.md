@@ -1,13 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7ea16d"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
-
 <div align="center">
   <samp>
     <b>
       システムアナリスト
       <br>
-      Olá, meu nome é Rafaela !
+      Olá, meu nome é Letícia ♡ !
       <br>
 </div>
 <div align="center">
