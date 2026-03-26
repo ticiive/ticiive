@@ -12,8 +12,14 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ticiive&show_icons=true&locale=en&layout=compact" alt="ticiive" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ticiive&show_icons=true&theme=dracula&locale=pt-br" alt="Status de Ticiive" />
+  
+  <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ticiive&show_icons=true&locale=en" alt="ticiive" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ticiive&show_icons=true&theme=dracula&layout=compact&locale=pt-br" alt="Linguagens de Ticiive" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ticiive&" alt="ticiive" /></p>
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ticiive&theme=dracula" alt="Streak de Ticiive" />
+</div>
