@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      データサイエンティスト
       <br>
       Olá, meu nome é Letícia ♡ !
       <br>
