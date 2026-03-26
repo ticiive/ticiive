@@ -16,8 +16,8 @@
   <img src="./ozsoqmbufz4e1.gif" width="200">
 </div>
 <div align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=70&lines=%C2%B0%E2%9D%80%E2%8B%86.%CC%A3%E1%B8%A3%E0%B9%91%E2%B9%80*:%EF%BD%A5%C2%B0%E2%9D%80%E2%8B%86.%CC%A3%E1%B8%A3%E0%B9%91%E2%B9%80*:%EF%BD%A5" alt="Decoração Leticia" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&height=60&lines=%C2%B0%E2%9D%80%E2%8B%86.%CC%A3%E1%B8%A3%E0%B9%91%E2%B9%80*:%EF%BD%A5%C2%B0%E2%9D%80%E2%8B%86.%CC%A3%E1%B8%A3%E0%B9%91%E2%B9%80*:%EF%BD%A5" alt="Decoração Leticia" />
 </p>
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7ea16d&width=900&size=21&center=true&lines=I+am+from+Brazil;+Data+Science+Student;Algorithm+enthusiast;Be+welcome!" alt="Typing SVG"/>
