@@ -16,8 +16,7 @@
   <img src="./ozsoqmbufz4e1.gif" width="200">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/meow_♡-black" />
-</div>
+  <img src="![](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F_%E2%98%85-black)
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7ea16d&width=900&size=21&center=true&lines=I+am+from+Brazil;+Data+Science+Student;Algorithm+enthusiast;Be+welcome!" alt="Typing SVG"/>
