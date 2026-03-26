@@ -16,7 +16,7 @@
   <img src="./ozsoqmbufz4e1.gif" width="200">
 </div>
 <div align="center">
-  <p>°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･</p> 
+  <p>⋆.ೃ𐦍*:･⋆𐦍.ೃ࿔*:･</p> 
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7ea16d&width=900&size=21&center=true&lines=I+am+from+Brazil;+Data+Science+Student;Algorithm+enthusiast;Be+welcome!" alt="Typing SVG"/>
