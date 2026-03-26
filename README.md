@@ -16,9 +16,7 @@
   <img src="./ozsoqmbufz4e1.gif" width="200">
 </div>
 <div align="center">
-<p align="center">
-  <img src="https://img.shields.io/badge/%E2%9D%A0%EF%B8%8E_%E1%B3%83%E0%BF%94*%3A%EF%BD%A5%20%E2%9D%A0%EF%B8%8E_%E1%B3%83%E0%BF%94*%3A%EF%BD%A5-black" alt="Decoração Leticia" />
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=350&height=40&lines=%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5" />
 </p>
