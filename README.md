@@ -1,4 +1,4 @@
-<img src="./Pokemon_Eevee_GIF.gif" width="70%" />
+<img src="./Pokemon_Eevee_GIF.gif"  />
 
 
 
