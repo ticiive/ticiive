@@ -18,7 +18,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5-black" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5-black" />
 </div>
 
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7ea16d&width=900&size=21&center=true&lines=I+am+from+Brazil;+Data+Science+Student;Algorithm+enthusiast;Be+welcome!" alt="Typing SVG"/>
