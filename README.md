@@ -12,5 +12,5 @@
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ticiive&theme=transparent&hide_border=true&stroke=7ea16d&ring=7ea16d&fire=00FF00&currStreakNum=7ea16d&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak de Ticiive" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ticiive&theme=transparent&hide_border=true&stroke=7ea16d&ring=7ea16d&fire=7ea16d&currStreakNum=7ea16d&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak de Ticiive" />
 </div>
