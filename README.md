@@ -17,7 +17,7 @@
 </div>
 <div align="center">
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?](https://readme-typing-svg.herokuapp.com/demo/?color=F7F7F7&lines=%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5)" alt="Decoração Leticia" />
+  <img src="https://img.shields.io/badge/%E2%9D%A0%EF%B8%8E_%E1%B3%83%E0%BF%94*%3A%EF%BD%A5%20%E2%9D%A0%EF%B8%8E_%E1%B3%83%E0%BF%94*%3A%EF%BD%A5-black" alt="Decoração Leticia" />
 </p>
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7ea16d&width=900&size=21&center=true&lines=I+am+from+Brazil;+Data+Science+Student;Algorithm+enthusiast;Be+welcome!" alt="Typing SVG"/>
