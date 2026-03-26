@@ -16,8 +16,9 @@
   <img src="./ozsoqmbufz4e1.gif" width="200">
 </div>
 <div align="center">
-  <p>⋆.ೃ𐦍*:･⋆𐦍.ೃ࿔*:･</p> 
-
+  <div align="center">
+  <img src="https://via.placeholder.com/600x60.png/000000/000000?text=.%C2%B0%E2%9D%80%E2%8B%86.%CC%A3%E1%B8%A3%E0%B9%91%E2%B9%80*:%EF%BD%A5%C2%B0%E2%9D%80%E2%8B%86.%CC%A3%E1%B8%A3%E0%B9%91%E2%B9%80*:%EF%BD%A5%20%20." width="600" alt="Decoração Leticia" />
+</div>
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7ea16d&width=900&size=21&center=true&lines=I+am+from+Brazil;+Data+Science+Student;Algorithm+enthusiast;Be+welcome!" alt="Typing SVG"/>
 </div>
