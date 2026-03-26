@@ -7,10 +7,7 @@
       <br>
       Olá, meu nome é Letícia ♡ !
       <br>
-</div>
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
+
       
 <br>
 <br>
@@ -98,7 +95,7 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
-TROCA OS LINKS PARA O MEU PERFIL TICIIVE TROCA O NOME PARA LETICIA 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7ea16d&height=100&section=footer"/>
+
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ticiive&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.
